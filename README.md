@@ -1,0 +1,1 @@
+Learning callback for telegram
